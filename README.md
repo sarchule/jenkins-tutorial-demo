@@ -17,3 +17,4 @@ In the article series, you’ll learn in detail:
 - How to generate new Jenkins jobs fully automatically for new Java projects
 
 Happy Coding!
+Add line
